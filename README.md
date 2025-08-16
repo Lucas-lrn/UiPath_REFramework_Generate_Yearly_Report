@@ -1,3 +1,27 @@
+# Project Title
+Automated Yearly Report Generation using Robotic Enterprise Framework (REFramework)
+
+## Project Description
+This RPA workflow automates the end-to-end process of generating and uploading yearly reports for vendors in the ACME System 1 Web Application. The robot will log in, access a list of tasks, and for each WI4 type activity, it will extract the Vendor Tax ID. The bot will then navigate to the reports section, download all corresponding monthly reports for 2024, consolidate them into a single yearly Excel file, and upload the consolidated report. Finally, it will update the original work item with the unique upload ID.
+
+## Project Objective
+The primary objective is to eliminate the manual, time-consuming, and repetitive tasks of downloading, compiling, and uploading monthly vendor reports, thereby increasing operational efficiency and ensuring accurate reporting.
+
+This project aims to:
+
+- Improve Efficiency: Significantly reduce the time and effort required to process each vendor report.
+
+- Enhance Data Integrity: Ensure correct data consolidation and accurate reporting, minimizing human error.
+
+- Streamline Operations: Automate a critical business process, allowing staff to focus on more strategic and complex tasks.
+
+## Process Map
+<img width="1260" height="235" alt="image" src="https://github.com/user-attachments/assets/e25a31c3-77ce-49a6-9935-23404ec09d43" />
+
+## Process Workflow
+<img width="1086" height="734" alt="image" src="https://github.com/user-attachments/assets/67ddb453-0111-4475-9be0-2e5aadc93239" />
+
+
 ### Documentation is included in the Documentation folder ###
 
 
@@ -31,9 +55,3 @@
  + ./Framework/*CloseAllApplications* - Logs out and closes applications used throughout the process
 
 
-### For New Project ###
-
-1. Check the Config.xlsx file and add/customize any required fields and values
-2. Implement InitiAllApplications.xaml and CloseAllApplicatoins.xaml workflows, linking them in the Config.xlsx fields
-3. Implement GetTransactionData.xaml and SetTransactionStatus.xaml according to the transaction type being used (Orchestrator queues by default)
-4. Implement Process.xaml workflow and invoke other workflows related to the process being automated
