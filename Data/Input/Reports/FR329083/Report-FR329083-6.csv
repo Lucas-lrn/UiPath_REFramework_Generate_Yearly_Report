@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+962538,"Various paper supplies",143756,28751.2,172507,EUR,2017-06-23
+599860,"Beverages and Catering",35020,7004,42024,CAD,2017-06-03
+420494,"Waste management services",202538,40507.6,243046,EUR,2017-06-14
+388449,"Beverages and Catering",155329,31065.8,186395,EUR,2017-06-24

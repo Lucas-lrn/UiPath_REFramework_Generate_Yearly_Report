@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O8Pg2w8dl0Km5Jx82Fhk2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="30709d80-5b58-4946-aca5-eb4c7e44dc65" DesignTimeRectangle="375, 687, 0, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl id='reportYear' tag='SELECT' /&gt;" Guid="b3513f44-b085-4ac4-a7b4-c462a1e37ad4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="87bf6a378e6544aac8b46b5488e070fa.png" xmlns="">0h8vzCJ23lUiFiEa11G3f3Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

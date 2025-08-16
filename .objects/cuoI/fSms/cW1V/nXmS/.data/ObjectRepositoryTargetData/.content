@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JcqBBb0ssEafdysvHlKssg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="39dddf91-f7d5-4631-adc0-e75c74d237f2" CvType="AnyWordGroup" DesignTimeRectangle="663, 248, 330, 19" ElementType="Text" Guid="111ac8e0-21db-4ca3-9a8b-1328021bd6d5" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Upload Yearly Report - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="39dddf91-f7d5-4631-adc0-e75c74d237f2" CvTextArea="663, 218, 353, 24" CvTextArgument="Report was uploaded - confirmation id is" CvType="Text" DesignTimeRectangle="663, 218, 353, 24" ElementType="Text" Guid="d949e298-3aa0-46fb-a87d-5cfdf2ed43b2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9c5d28be90b8379f90cc1af91fc2ed48.png" xmlns="">0d19HT1YVD0ar-YYEn2Iu_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

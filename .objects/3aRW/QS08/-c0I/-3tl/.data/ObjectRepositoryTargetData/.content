@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Irmke1u-6k2YlPXeeSyf_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="3a09b9b8-50a8-4441-988c-0b0c66988170" DesignTimeRectangle="375, 687, 0, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl id='reportMonth' tag='SELECT' /&gt;" Guid="a4c670e1-cc18-4926-ba57-9788529bd6b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3bffe43edeba88914137a82b7adc3889.png" xmlns="">09SeygDSwrEScn63_J1pgCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dWTR_xyHXkiiSIwYQfAGQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="30709d80-5b58-4946-aca5-eb4c7e44dc65" CvElementArea="207, 759, 209, 54" CvTextArea="227, 774, 167, 19" CvTextArgument="Select Report File" CvType="Button" DesignTimeRectangle="210, 760, 204, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                                  Select Report File                     ' tag='LABEL' /&gt;" Guid="e9f77a2a-94cc-44d6-a681-affd304ad25b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="30709d80-5b58-4946-aca5-eb4c7e44dc65" CvElementArea="207, 830, 178, 55" CvTextArea="227, 846, 139, 24" CvTextArgument="Upload Report" CvType="Button" DesignTimeRectangle="210, 832, 173, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonUpload' tag='BUTTON' type='button' class='btn btn-primary' aaname='Upload Report' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Upload Report' /&gt;" Guid="6c9b56ff-2214-4bed-afc0-12f91b35881d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e8667f5b92af101fc25d1233fe78e1c4.png" xmlns="">0c32OLHaabUGtL5lYeFhUZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
